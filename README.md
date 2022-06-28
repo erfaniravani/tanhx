@@ -1,0 +1,2 @@
+# tanhx
+tanhx hardware implementation
