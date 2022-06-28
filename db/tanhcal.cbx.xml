@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="tanhcal">
+		<CBX_INST_ENTRY INSTANCE_NAME="|tanhcal|datapath:inst6|multi:inst11|lpm_mult:Mult0" CBX_FILE_NAME="mult_1ht.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|tanhcal|datapath:inst6|multi:inst11|lpm_mult:Mult0|mult_1ht:auto_generated|alt_mac_mult:mac_mult1" CBX_FILE_NAME="mac_mult_r2h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|tanhcal|datapath:inst6|multi:inst11|lpm_mult:Mult0|mult_1ht:auto_generated|alt_mac_out:mac_out2" CBX_FILE_NAME="mac_out_kv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|tanhcal|datapath:inst6|rom:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ep91.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
