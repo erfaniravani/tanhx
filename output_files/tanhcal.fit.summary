@@ -1,0 +1,20 @@
+Fitter Status : Successful - Mon Jul 27 20:31:30 2020
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : tanhcal
+Top-level Entity Name : tanhcal
+Family : Cyclone IV GX
+Device : EP4CGX15BF14A7
+Timing Models : Final
+Total logic elements : 534 / 14,400 ( 4 % )
+    Total combinational functions : 532 / 14,400 ( 4 % )
+    Dedicated logic registers : 57 / 14,400 ( < 1 % )
+Total registers : 57
+Total pins : 36 / 81 ( 44 % )
+Total virtual pins : 0
+Total memory bits : 128 / 552,960 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 0 / 2 ( 0 % )
+Total GXB Receiver Channel PMA : 0 / 2 ( 0 % )
+Total GXB Transmitter Channel PCS : 0 / 2 ( 0 % )
+Total GXB Transmitter Channel PMA : 0 / 2 ( 0 % )
+Total PLLs : 0 / 3 ( 0 % )
